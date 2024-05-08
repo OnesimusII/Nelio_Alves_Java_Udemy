@@ -1,17 +1,15 @@
-package exercicios.secao10.vetores.application;
+package exercicios.secao10.vetores.negativos.application;
 
 import java.util.Scanner;
 
 public class Main
 {
+	/*
+	Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros
+	e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.
+	*/
 	public static void main(String[] args)
 	{
-
-		/*
-		Faça um programa que leia um número inteiro positivo N (máximo = 10) e depois N números inteiros
-		e armazene-os em um vetor. Em seguida, mostrar na tela todos os números negativos lidos.
-		 */
-
 		Scanner sc = new Scanner(System.in);
 
 		String initMsg = "Quantos números você quer digitar?";

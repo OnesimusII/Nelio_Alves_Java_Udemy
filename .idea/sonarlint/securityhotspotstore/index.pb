@@ -1,3 +1,19 @@
 
 n
 >src/main/java/exercicios/secao10/vetores/application/Main.java,1\5\15f1f939201c7b2b31eb95fff32b1993e523cb4b
+x
+Hsrc/main/java/exercicios/secao10/vetores/negativos/application/Main.java,6\b\6b7ead36c48f19382425d073368d5a6c6275c258
+x
+Hsrc/main/java/exercicios/secao10/vetores/somavetor/application/Main.java,9\0\900e8cdf6d2d4be471caf437714b8da3ff63f3ab
+v
+Fsrc/main/java/exercicios/secao10/vetores/alturas/application/Main.java,7\4\74cbe28f534790670bb068d012958b301c24e39f
+u
+Esrc/main/java/exercicios/secao10/vetores/alturas/entities/Person.java,2\b\2b5e28748cc90e1bbc4f231d4d979081a7ab397a
+x
+Hsrc/main/java/exercicios/secao10/vetores/somaVetor/application/Main.java,0\c\0c0c0fb447ab2ff3456ac09dd6d95e641e0e8d7c
+o
+?src/main/java/exercicios/secao10/vetores/numerosPares/Main.java,f\7\f75b77e31a7c09191ba9215921870cb229f0a8db
+o
+?src/main/java/exercicios/secao10/vetores/maiorPosicao/Main.java,0\0\009314be226d47c8a2c9f5507a9a8dee118bcfb4
+n
+>src/main/java/exercicios/secao10/vetores/somaVetores/Main.java,8\a\8a2d8cb6b2a04f1655b86cdcfa084e6f7251cead

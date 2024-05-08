@@ -1,0 +1,11 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌðŽ¿8‰áƒ®õ1J$71c555a1-addf-42c0-9880-34c2bb5ef88b
+r	java:S106"+Replace this use of System.out by a logger.(ñüìðúÿÿÿÿ8¤áƒ®õ1J$d2fc60fb-add0-4de6-aaec-21cc845c53e1
+l	java:S106"+Replace this use of System.out by a logger.(åýÐ~8¥áƒ®õ1J$1cab54b6-1c0d-4890-bf6e-bbf0e0a18aee
+ƒ	java:S125'"<This block of commented-out lines of code should be removed.(ý×â†þÿÿÿÿ8þý‰®õ1J$921c46f9-30a6-4a6d-a309-2e521a035321
+r	java:S1068"+Replace this use of System.out by a logger.(šæ“÷üÿÿÿÿ8¦áƒ®õ1J$7af47be1-e09f-4580-93bc-396df19ded4c
+r	java:S1069"+Replace this use of System.out by a logger.(‘ÛÈ¥ýÿÿÿÿ8¨áƒ®õ1J$1bca177e-06fa-4e89-98f2-f1291bdfbd94
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8è‹†®õ1J$c8edc9d3-73d8-4d7d-9077-603adc60079e
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ªáƒ®õ1J$00d2990e-7ba3-4468-ae8a-5468b3d3b2d7
