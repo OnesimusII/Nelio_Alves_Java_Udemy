@@ -3,6 +3,8 @@ package exercicios.secao10.vetores.maiorPosicao;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
+import java.util.stream.DoubleStream;
+import java.util.stream.IntStream;
 
 public class Main
 {
@@ -20,12 +22,12 @@ public class Main
 		System.out.print("Quantos números você quer digitar? ");
 		int n = sc.nextInt();
 
-		int[] vect = new int[n];
+		double[] vect = new double[n];
 
 		for (int i = 0; i < vect.length; i++)
 		{
 			System.out.print("Digite o " + (i + 1) + "º número: ");
-			vect[i] = sc.nextInt();
+			vect[i] = sc.nextDouble();
 		}
 
 		/*
@@ -36,13 +38,14 @@ public class Main
 		Porém, a nível didático para alguém que não trabalha,
 		nesse ponto do curso (provavelmente não saberia como fazer dessa forma.)
 
-		System.out.println("O maior número do vetor é: " + Collections.max(Arrays.asList(vect)));
-		System.out.println("O maior número do vetor é: " + Arrays.stream(vect).max().getAsInt());
+		System.out.println("O maior número do vetor é: " + Arrays.stream(vect).max().getAsDouble());
 
-		System.out.println("A posição do maior número é: " + Arrays.asList(vect).indexOf(Arrays.stream(vect).max().getAsInt()));
+		System.out.println("A posição do maior número é: " + IntStream.range(0, vect.length)
+			.reduce((i, j) -> vect[i] > vect[j] ? i : j)
+			.getAsInt());
 		 */
 
-		int biggestValue = vect[0];
+		double biggestValue = vect[0];
 		int indexOfBiggestValue = 0;
 		for(int i = 0; i < vect.length; i++)
 		{

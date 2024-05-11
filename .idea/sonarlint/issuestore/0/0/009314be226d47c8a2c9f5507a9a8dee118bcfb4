@@ -1,11 +1,15 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌðŽ¿8‰áƒ®õ1J$71c555a1-addf-42c0-9880-34c2bb5ef88b
-r	java:S106"+Replace this use of System.out by a logger.(ñüìðúÿÿÿÿ8¤áƒ®õ1J$d2fc60fb-add0-4de6-aaec-21cc845c53e1
-l	java:S106"+Replace this use of System.out by a logger.(åýÐ~8¥áƒ®õ1J$1cab54b6-1c0d-4890-bf6e-bbf0e0a18aee
-ƒ	java:S125'"<This block of commented-out lines of code should be removed.(ý×â†þÿÿÿÿ8þý‰®õ1J$921c46f9-30a6-4a6d-a309-2e521a035321
-r	java:S1068"+Replace this use of System.out by a logger.(šæ“÷üÿÿÿÿ8¦áƒ®õ1J$7af47be1-e09f-4580-93bc-396df19ded4c
-r	java:S1069"+Replace this use of System.out by a logger.(‘ÛÈ¥ýÿÿÿÿ8¨áƒ®õ1J$1bca177e-06fa-4e89-98f2-f1291bdfbd94
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌðŽ¿8ÒÃ×Íö1J$6949aa22-1925-47ef-9fb0-d8c4c628cb6b
+r	java:S106"+Replace this use of System.out by a logger.(ñüìðúÿÿÿÿ8òÃ×Íö1J$0b4483bc-8470-4ab2-9c91-09da7ea6360c
+l	java:S106"+Replace this use of System.out by a logger.(åýÐ~8ôÃ×Íö1J$51487f61-6677-4881-9d5f-ce807adbc6e2
+ƒ	java:S125)"<This block of commented-out lines of code should be removed.(ÜÕõŒýÿÿÿÿ8÷Ã×Íö1J$c4851778-e3a2-4212-b0ee-75a48027c4d3
+r	java:S106;"+Replace this use of System.out by a logger.(šæ“÷üÿÿÿÿ8üÃ×Íö1J$c5f0c52f-3052-41ea-8055-881a884c9a31
+r	java:S106<"+Replace this use of System.out by a logger.(‘ÛÈ¥ýÿÿÿÿ8ýÃ×Íö1J$773d0026-9641-4939-b4fa-ca1dd599485b
 u
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8è‹†®õ1J$c8edc9d3-73d8-4d7d-9077-603adc60079e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8“ëÙÍö1J$4060cf5d-7863-41f1-b700-214a677a7996
 z
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8ªáƒ®õ1J$00d2990e-7ba3-4468-ae8a-5468b3d3b2d7
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8þÃ×Íö1J$035ebd42-268a-4ffc-8ea3-9e61899c6928
+}
+java:S1128":Remove this unused import 'java.util.stream.DoubleStream'.(óÖÐ©8þÃ×Íö1J$fdf89480-b1eb-4214-9256-7e829bd3d3e1
+
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8“ëÙÍö1J$979cd5ee-23d4-4e09-b4a9-d17cb0b28af4
