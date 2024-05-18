@@ -1,9 +1,7 @@
 package exercicios.secao10.vetores.maiorPosicao;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
-import java.util.stream.DoubleStream;
 import java.util.stream.IntStream;
 
 public class Main
@@ -30,8 +28,8 @@ public class Main
 			vect[i] = sc.nextDouble();
 		}
 
-		/*
 
+		/*
 		Comentei essas três linhas pois sei que é possível fazer dessa forma mais eficiente,
 		pois já atuo como desenvolvedor Java há 2 anos.
 
