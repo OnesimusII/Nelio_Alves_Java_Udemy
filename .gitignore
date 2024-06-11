@@ -3,6 +3,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+D:\secao21_acesso_db_jdbc\out
+
 ### IntelliJ IDEA ###
 .idea/
 .idea/modules.xml
